@@ -1,10 +1,3 @@
-/* Name: Andrew Manga
- ** Date: June 14, 2023
- ** Class: ICS4U1 - J. Radulovic
- ** Assignment: Culminating
- ** Purpose: Create a JavaFX program to simulate and illustrate the changes in population in an ecosystem.
- */
-
 package com.program.sim;
 
 import javafx.animation.Animation;
