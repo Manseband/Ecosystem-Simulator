@@ -1,5 +1,5 @@
 ## Running
-Requires JDK 17 and JavaFX 21.0.2. IntelliJ IDE is recommended to run the program.
+Requires JDK 17 (JavaFX is provided by Maven). IntelliJ IDE is recommended to run the program.
 ## Controls
 The toolbar at the top of the window is where you will find all of the controls.
 The drop down menu allows you to switch between individual simulations. Once you make your choice, use the neighboring four icons to control the speed of the respective simulation.
