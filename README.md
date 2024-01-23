@@ -6,7 +6,7 @@
 The toolbar at the top of the window is where you will find all of the relevant controls.
 The drop down menu allows you to switch between individual simulations. Once you make your choice, use the neighboring four icons to control the speed of the respective simulation.
 Click the Reset World button to reset the world, including the graphs on the side panel, if you were dissatisfied with the results of a simulation’s run and want to start anew.
-Click the Free Cam button to enter the free camera. 
+Click the Free Cam button to enter the free camera.
 In this mode, you can move around using **Left Click + Drag** and rotate on the Z-axis using **Right Click + Drag**. However, once you start to move, your rotation will be reset.
 Scaling the 3D elements is also possible. **Scroll Wheel Up** will enlarge the elements, while **Scroll Wheel Down** will shrink them.
 If you stray too far from land, you can always press **Space** to return to the starting position, rotation and scale.
